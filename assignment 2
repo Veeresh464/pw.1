@@ -1,0 +1,34 @@
+1) What is Git ?
+A) Git is the popular version control system which was created in 2005 by Linus Torvalds and maintained by Junio Hamano and it
+obeys the distributed version control system.
+
+2) What do you understand by the term ‘Version Control System" ?
+A)It is a system that records changes to a file or set of files over time, so that we can recall specific versions later,
+i.e., for every source code changes in a file a new version will be created.
+
+3) What is GitHub ?
+A) It is the main actual remote reposatory server which helps in the storage of all the data that is being fed.
+
+4) Name some popular git hosting services ?
+A)Bitbucket.
+  GitLab.
+  Perforce.
+  Beanstalk.
+  Amazon AWS CodeCommit.
+  Codebase.etc
+  
+5) What are the different types of vesion control system?
+A) 1)Central version control system.
+     2)Distributed version control system.
+
+6) What benefits come with usng git ?
+A) *Tracking code changes.
+   *Tracking `wwho made changes like history of the files.
+   *coding collaborations.
+   *obey distributed version control system.
+   
+7) What is the git rerository
+A) Git repository is the is the place or the location where any of the files related to the project is stored.
+
+8) How can you initialize reposatory in the Git ?
+A) We can use the command git init to initialize the reposatory in Git.
