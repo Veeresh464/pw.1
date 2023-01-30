@@ -1,16 +1,32 @@
 1. How to check if git is available on your system?
-A)
+A) If we install it and then open the git we can say that git is available in our syatem and by using the commands like 
+git help //and
+git version //
+we can verify weather git is correctly installed and running in our system.
 2. How to initialize a new Git repository?
-A)
+A) We can use the command git init to initialize the reposatory in Git.
 3. How to tell git about your name and email?
-A)
+A) We can use command
+git congig --global user.name "username" for username;
+git config --global user.email "email" for email.
 4. How to add a file to the staging area?
-A)
+A) we can use the command 
+git add . or
+git add <filename>. to add files to the staging area. 
 5. How to remove a file from the staging area?
-A)
+A) we can use the command 
+git rm --Cached <filename> to remove the file from the stagging area. 
 6. How to make a commit?
-A)
+A) we can use the command 
+git commit -m "//comment" <filename>. now the file is added to the local repository
 7. How to send your changes to a remote repository?
-A)
+A)we can use the command if we are in local 
+git branch -M main  //for storing in main branch.
+git remote add origin <url>
+git push -u origin main.
+If we are already in main we can use only this command
+git push -u origin main.
+by this we can 
 8. What is the difference between clone and pull?
-A)
+A) By the help of the clone we can download the files of the entire project into the local system.
+   By the help of the pull we can download latest modified things in the respective modified files.    
