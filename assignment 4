@@ -1,0 +1,44 @@
+1. What is Programming language?
+A) Programming is the set of instructions given to the computer to perform the particular task.So these set instruction 
+should be given to computer such a way that computer can understand the instruction.
+example of programming languages are c, c++, java, rubi etc.
+
+2. Why do we need a programming language?
+A)Programming language is important because if we are writing the set of instructions which is not understandable by the machine or
+computer then how can it perform the task for us?
+Programming Language is important in our daily life to enhance and increase the power of computers, mobile solutions,
+and the internet. There are numerous examples you may come to know when you are going to learn a programming language.
+• Not just for academics, but for the real world as well, all programming is done.
+• Due to programmes developed by computer programming, you can conduct online banking and purchase your ticket while
+travelling by train or aeroplane. It's true that your washing machine has a few different kinds of computer programmes.
+Programming makes it possible for all of these things and many more.
+
+3. What are the features of Java?
+A) *Simple
+   *Object-Oriented
+   *Portable
+   *Platform independent
+   *Robust
+   *Distributed
+   *Dynamic
+
+4. What is an Object?
+A)*An object is a real-world entity.
+  *An object is a runtime entity.
+  *The object is an entity which has state and behaviour.
+  *The object is an instance of a class 
+  *An object is an entity with state and behaviour, such as a chair, bike, marker, pen, table, or car.
+  *It could be intellectual or physical (tangible and intangible).
+  The banking system is an illustration of an intangible entity
+
+5. What is a class?
+A) A class is a collection of items with similar characteristics. It serves as a model or blueprint from
+which things can be made. It makes sense as a whole. It cannot be bodily
+
+6. Explain about the main() method in Java?
+A) * The JVM always starts its execution from the main method
+   * If the main method is not written then nothing is executedby the JVM.
+   
+   
+   
+   
