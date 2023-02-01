@@ -22,6 +22,20 @@ A) Primitive Data types consists of the boolean, int , float, double, byte, shor
 A) Identifiers refers to the name of the variable , keywords, class, method, pakage etc.
    
 6. List the Operators in Java?
-A) Arithem
+A) Arithematic operator
+   Relational operator
+   Incremaental and decremental opertor
+   Unary operator
+   Logical operator
+   Bitwise operator
+   
 7. Explain about Increment and Decrement operators and give an examples
-A)
+A) Increment operator: It helps in the increasing the value given to a variable
+example: increment of 1 is 2.
+   Decrement operator: It hepls in the decreasing the value given to a variable
+example: decrement of 2 is 1.
+   There are mainly two types of increment and decrement
+   1) Pre increment
+   example : ++a
+   2) Post increment
+   example : a++.
